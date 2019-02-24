@@ -3,7 +3,7 @@
 <suite name="Suite" parallel="false">
   <test name="Test">
     <classes>
-      <class name="testNGExecution"/>
+      <class name="TestCases.testNGExecution"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
